@@ -110,10 +110,21 @@
         + Microsoft
         + Open any folder in the Windows Subsystem for Linux (WSL) and take advantage of Visual Studio Code's full feature set.
 + [Clase 010]()
-
+8. En caso de no poder instalar **Windows Subsystem for Linux**, a continuación las indicaciones para instalar entonces **VirtualBox**:
+    + [Clase -10 Insalacion de virtual box_files](/Modulo001/Clase-10-Insalacion-de-virtual-box_files.html)
+9.  ddddd
 *** VOY POR ACÁ ***
 
 + [Clase 011]()
 + [Video 012](https://www.youtube.com/watch?v=_9sIkov6KCc)
 + [Video 013](https://www.youtube.com/watch?v=9NjnFEtgChE)
 + [Video 014](https://www.youtube.com/watch?v=wOxVIArLsrg)
+
+
+
+
+
+1. Commit:
+    + $ git add .
+    + $ git commit -m "Commit al 15-10-2021"
+    + $ git push -u origin main
