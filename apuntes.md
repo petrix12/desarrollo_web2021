@@ -111,13 +111,40 @@
         + Open any folder in the Windows Subsystem for Linux (WSL) and take advantage of Visual Studio Code's full feature set.
 + [Clase 010]()
 8. En caso de no poder instalar **Windows Subsystem for Linux**, a continuación las indicaciones para instalar entonces **VirtualBox**:
-    + [Clase -10 Insalacion de virtual box_files](/Modulo001/Clase-10-Insalacion-de-virtual-box_files.html)
-9.  ddddd
+    + [Insalacion de Virtual Box](/Modulo001/Clase-10-Insalacion-de-virtual-box.html)
++ [Clase 011]()
+9. Instalación de Ubuntu en una máguina virtual:
+    + [Instalación de Ubuntu en máquina virtual](/Modulo001/Clase-11-Instalando-Ubuntu-en-una-maquina-virtual.html)
++ [Video 012](https://www.youtube.com/watch?v=_9sIkov6KCc)
+10. Abrir **Windows Terminal**.
+11. Modificar el archivo **C:\Users\bazop\AppData\Local\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\settings.json** con VSCode para indicar la shell por defecto.
+12. Cerrar y volver abrir la terminal.
+13. En **Windows Terminal** ejecutar:
+    + $ cd ~
+    + $ cd personalProjects
+    + $ cd proyectoDemoCursoPrework
+    + $ code .
+14. Diseñar el archivo index.html con el **VSCode**:
+    ```html
+    ```
+15. Instalar la extensión Live Server en en VSCode de Ubuntu y levantar la página **index.html**.
+16. Volver a la terminal y ejecutar:
+    + $ cat index.html          (muestra el contenido de un archivo)
+    + $ man cat                 (muestra información sobre el uso de cat)
+    + $ cd ~
+    + $ sudo apt-get update     (instala un repositorio de dependencias)
+    + $ sudo apt-get upgrade    (para actulizar Ubuntu)
+        + Do you want to continue? [Y/n]: **y**
+    + $ sudo apt install nodejs (para instalar Node.js)
+        + Do you want to continue? [Y/n]: **y**
+    + $ node -v                 (ver la versión de Node.js)
+    + $ sudo apt install npm    (instala Node Package Manager)
+        + Do you want to continue? [Y/n]: **y**
++ [Video 013](https://www.youtube.com/watch?v=9NjnFEtgChE)
+
+
 *** VOY POR ACÁ ***
 
-+ [Clase 011]()
-+ [Video 012](https://www.youtube.com/watch?v=_9sIkov6KCc)
-+ [Video 013](https://www.youtube.com/watch?v=9NjnFEtgChE)
 + [Video 014](https://www.youtube.com/watch?v=wOxVIArLsrg)
 
 
