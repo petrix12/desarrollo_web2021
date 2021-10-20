@@ -141,11 +141,49 @@
     + $ sudo apt install npm    (instala Node Package Manager)
         + Do you want to continue? [Y/n]: **y**
 + [Video 013](https://www.youtube.com/watch?v=9NjnFEtgChE)
-
-
-*** VOY POR ACÁ ***
-
+    + $ clear                   (limpiar pantalla)
+    + $ cd personalProjects
+    + $ npx create-react-app test
+    + $ cd test
+    + $ npm start               (crea un servidor para levantar la aplicación)
+    + $ ^C                      (para finalizar el servicio y regresar a la consola)
+17. Abrir otra terminal y ejecutar:
+    + $ cd personalProjects
+    + $ cd test
+    + $ code .
+18. En VSCode ir **Terminal > Nuevo terminal** y ejecutar:
+    + $ npm start
+    + **Nota**: en caso de no contar con los privilegios para ejecutar ciertas acciones:
+        + Ir a una terminal de **Windows Terminal** y ejecutar:
+            + $ sudo chown -R petrix ~personalProjects  (esta acción da permisos de administrador en la carpeta **personalProjects**)
 + [Video 014](https://www.youtube.com/watch?v=wOxVIArLsrg)
+19. Cerrar VSCode.
+20. En una terminal de **Windows Terminal** ejecutar:
+    + $ rm -rf test
+21. Comando básicos para borrar:
+    + $ rm nombre_archivo.ext                   (borrar un archivo)
+    + $ rm -d nombre_carpeta_vacia              (borrar una carpeta vacia)
+    + $ rm -rf nombre_carpeta_con_contenido     (borrar una carpeta con contenido)
+22. En una terminal de **Windows Terminal** ejecutar:
+    + $ git --version                           (ver versión de Git en caso de estar instalado)
+        + En caso de no tener git instalado:
+            + $ sudo apt-get update
+            + $ sudo apt-get upgrade
+            + $ sudo apt install git
+23. Ir a GitHub: https://github.com
+
+
+
+
++ [Video 015](https://www.youtube.com/watch?v=-6nbd2IDxMU)   *** VOY POR ACÁ ***
+
+
+
+
+
+
++ [Video 016](https://www.youtube.com/watch?v=aFPTsulN00k)
++ [Video 017](https://www.youtube.com/watch?v=VSTM2MHd0qI)
 
 
 
