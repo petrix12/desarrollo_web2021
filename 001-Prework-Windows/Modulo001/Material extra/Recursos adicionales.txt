@@ -1,0 +1,178 @@
+Lecturas recomendadas
+https://platzi.com/web/
+https://platzi.com/web/
+
+Curso de Computación Básica
+https://platzi.com/clases/computacion-basica/
+
+Lecturas recomendadas
+Google Chrome - Download the Fast, Secure Browser from Google
+https://www.google.com/chrome/browser/index.html
+
+
+Download Firefox Browser — Fast, Private & Free — from Mozilla
+https://www.mozilla.org/en-US/firefox/new/
+
+
+Firefox Developer Edition
+https://www.mozilla.org/en-US/firefox/developer/
+
+
+Download New Microsoft Edge Browser | Microsoft
+https://www.microsoft.com/edge
+
+
+Curso de Debugging con Chrome DevTools
+https://platzi.com/clases/devtools/
+
+
+Escuela de Inglés
+https://platzi.com/idioma-ingles/
+
+Curso de Inglés para Developers
+https://platzi.com/clases/ingles-developers/
+
+Lecturas recomendadas
+
+WebStorm: El IDE más inteligente para JavaScript, creado por JetBrains
+
+https://www.jetbrains.com/es-es/webstorm/
+
+
+Atom
+https://atom.io/
+
+
+IDE de Visual Studio, editor de código, Azure DevOps y App Center - Visual Studio
+https://visualstudio.microsoft.com/es/
+
+
+Sublime Text - A sophisticated text editor for code, markup and prose
+https://www.sublimetext.com/
+
+
+https://platzi.com/clases/prework/
+https://platzi.com/clases/prework/
+
+Lecturas recomendadas
+
+Color Highlight - Visual Studio Marketplace
+https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight
+
+
+Live Server - Visual Studio Marketplace
+https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+
+
+Path Intellisense - Visual Studio Marketplace
+https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense
+
+
+Auto Rename Tag - Visual Studio Marketplace
+https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag
+
+
+https://platzi.com/clases/html-css-2020/
+https://platzi.com/clases/html-css-2020/
+
+
+Material Icon Theme - Visual Studio Marketplace
+https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
+
+
+Curso de CodeStream
+https://platzi.com/clases/comunicacion-codestream/
+
+
+Prettier - Code formatter - Visual Studio Marketplace
+https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+
+
+vscode-icons - Visual Studio Marketplace
+https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons
+
+
+Bracket Pair Colorizer - Visual Studio Marketplace
+https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer
+
+Lecturas recomendadas
+
+Install Windows Subsystem for Linux (WSL) on Windows 10 | Microsoft Docs
+https://docs.microsoft.com/en-us/windows/wsl/install-win10
+
+Cómo personalizar tu terminal: temas, colores y plugins
+https://platzi.com/blog/como-personalizar-tu-terminal/
+
+Lecturas recomendadas
+
+Install Windows Subsystem for Linux (WSL) on Windows 10 | Microsoft Docs
+https://docs.microsoft.com/en-us/windows/wsl/install-win10
+
+Curso Básico de Seguridad Informática para Empresas
+https://platzi.com/clases/seguridad-empresas/
+
+Curso de Introducción a la Terminal y Línea de comandos
+http://platzi.com/terminal
+
+Escuela de Inglés
+https://platzi.com/ingles
+
+Lecturas recomendadas
+
+Curso de Introducción a la Terminal y Línea de comandos
+https://platzi.com/clases/terminal/
+
+Lecturas recomendadas
+
+Node.js
+https://nodejs.org/
+
+https://platzi.com/clases/terminal/
+https://platzi.com/clases/terminal/
+
+Curso Definitivo de HTML y CSS
+https://platzi.com/clases/html-css-2020/
+
+Curso de Backend con NodeJS
+https://platzi.com/clases/backend-js/
+
+Lecturas recomendadas
+
+Curso de React.js
+https://platzi.com/clases/react/
+
+React – Una biblioteca de JavaScript para construir interfaces de usuario
+https://es.reactjs.org/
+
+ecturas recomendadas
+
+Curso Profesional de Git y GitHub
+
+https://platzi.com/clases/git-github/
+
+Curso de GitLab
+https://platzi.com/clases/gitlab/
+
+
+GitHub: Where the world builds software · GitHub
+https://github.com/
+
+Lecturas recomendadas
+
+Curso Profesional de Git y GitHub
+https://platzi.com/clases/git-github/
+Lecturas recomendadas
+
+https://twitter.com/celismx
+
+https://twitter.com/celismx
+
+
+Twitch
+https://twitch.tv/celismx
+
+Cómo personalizar tu terminal: temas, colores y plugins
+https://platzi.com/blog/como-personalizar-tu-terminal/
+
+Escuela de Desarrollo Web
+https://platzi.com/web/

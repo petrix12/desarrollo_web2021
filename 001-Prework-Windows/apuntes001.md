@@ -187,18 +187,5 @@
         + Ir a **SSH and GPG keys**.
         + Dar clic en **New SSH key** y pegar las credenciales de la llave pública.
     + **Nota**: con estos pasos la terminal de Ubuntu queda enlazada con tu cuenta de GitHub.
-+ [Video 016](https://www.youtube.com/watch?v=aFPTsulN00k)*** VOY POR ACÁ ***
-
-
-
-
++ [Video 016](https://www.youtube.com/watch?v=aFPTsulN00k)
 + [Video 017](https://www.youtube.com/watch?v=VSTM2MHd0qI)
-
-
-
-
-
-1. Commit:
-    + $ git add .
-    + $ git commit -m "Commit al 15-10-2021"
-    + $ git push -u origin main
