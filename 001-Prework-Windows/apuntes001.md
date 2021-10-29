@@ -175,7 +175,7 @@
 24. Generar llave SSH:
     + Ir a **Windows Terminal**:
         + $ cd ~
-        + $ ssh-keygen -t rsa -b 4096 bazo.pedro@gmail.com
+        + $ ssh-keygen -t rsa -b 4096 -C bazo.pedro@gmail.com
             + Enter file in which to save the key (/home/petrix/.ssh/id_rsa): [ENTER]
             + Enter passphrase                          (empty for no passphrase): ***
         + $ eval "$(ssh-agent -s)"                      (Para evaluar el SSH agent)
